@@ -1,1 +1,5 @@
-Hello Chad!
+<?php 
+// CHD Framework
+// Programmer: Chad Jamilla
+
+?>
